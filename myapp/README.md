@@ -1,0 +1,11 @@
+- go run server.go
+  - server.go の main 関数が実行される
+- 理解
+  - echo.New()
+  - e.GET()
+  - e.Logger.~
+- 応用
+  - POST
+  - GET
+  - PUT
+  - DELETE
