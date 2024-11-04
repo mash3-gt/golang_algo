@@ -1,0 +1,8 @@
+- サーバーテスト
+- 作成手順
+  - go.mod を作成
+  - go get github.com/labstack/echo/v4@v4.1.16 コマンドを実行
+  - server.go を作成
+- 実行手順
+  - go run server.go
+  - http://localhost:1323 にアクセス
